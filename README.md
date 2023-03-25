@@ -1,3 +1,3 @@
 # Wiki
 
-### [Primal JDK]("./JDK")
+### [Primal JDK](JDK)
