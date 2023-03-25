@@ -1,5 +1,5 @@
 
-# [<](../) Primal JDK
+# [<](../Wiki) Primal JDK
 
 ### JavaVersion : 19
 ### JDKVersion : 1.0
