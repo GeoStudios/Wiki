@@ -7,5 +7,6 @@ The Wiki of all thing GeoStudios
 ##### [Crouton JDK](JDK/Crouton/readme.md)
 
 ## Projects
-##### [Mini Cal](Projects/Super-Cal/readme.md)
-<!-- ##### [Mini Cal ( Revamped )](Projects/Super-Cal/readme.md) -->
+##### [Mini Cal](Projects/Mini-Cal/readme.md)
+##### [Geo Launcher](Projects/Geo-Launcher/readme.md)
+<!-- ##### [Mini Cal ( Revamped )](Projects/Mini-Cal(Revamped)/readme.md) -->
