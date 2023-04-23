@@ -1,5 +1,7 @@
+/* Import the main css file as the base */
 @import url("../../../public/style.css");
 
+/* Declare Custom Styles */
 html, body{
     background-color: black;
 }

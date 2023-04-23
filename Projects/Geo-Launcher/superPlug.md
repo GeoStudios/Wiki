@@ -1,4 +1,4 @@
-# [<](readme.md) Super Plugin
+# [<](docs.md) Super Plugin
 
 This Plugin adds support of backwards compatability with older and newer plugins and adds helper functions to make plugins easier. The Functions in the pack are shown below.
 
@@ -12,17 +12,17 @@ from a folder called "sub" located in the Selected Pack of your choosing */
 LoadLib("Plugin Name") // Allows you to get the "lib.js" from the selected pack
 ```
 
-This Plugin Allows for more plugins to be enabled through the "packs.json" located in the "Config/Super" folder. This also adds a styles pack to add more styles and a lib to make stylepacks easier using this code snippet. [full example pack src](ExamplePack/pack.js)
+This Plugin Allows for more plugins to be enabled through the "packs.json" located in the "Config/Super" folder. This also adds a styles pack to add more styles and a lib to make stylepacks easier using this code snippet. [full example pack src](ExamplePack/readme.md)
 
 ```js
 
-const filepath = (file)=> { return getFilePath(file, __filename) }
 /* Gets the full path of any file in the plugin */
+const filepath = (file)=> { return getFilePath(file, __filename) }
 
-const StylePack = LoadLib("Super/libs/stylepack/")
 /* Loads Stylepack Lib*/
+const StylePack = LoadLib("Super/libs/stylepack/")
 
-StylePack.setStyle(filepath, "styles/opt1.css")
 /* Load Up the Plugin Within the Launcher*/
+StylePack.setStyle(filepath, "styles/opt1.css")
 
 ```
