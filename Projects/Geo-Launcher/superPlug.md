@@ -12,7 +12,7 @@ from a folder called "sub" located in the Selected Pack of your choosing */
 LoadLib("Plugin Name") // Allows you to get the "lib.js" from the selected pack
 ```
 
-This Plugin Allows for more plugins to be enabled through the "packs.json" located in the "Config/Super" folder. This also adds a styles pack to add more styles and a lib to make stylepacks easier using this code snippet. [full example pack src](ExamplePack\pack.js)
+This Plugin Allows for more plugins to be enabled through the "packs.json" located in the "Config/Super" folder. This also adds a styles pack to add more styles and a lib to make stylepacks easier using this code snippet. [full example pack src](ExamplePack/pack.js)
 
 ```js
 
