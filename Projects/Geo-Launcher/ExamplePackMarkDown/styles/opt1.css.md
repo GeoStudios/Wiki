@@ -1,0 +1,22 @@
+# [<](readme.md) opt1.css
+```css
+/* Import the main css file as the base */
+@import url("../../../public/style.css");
+
+/* Declare Custom Styles */
+html, body{
+    background-color: black;
+}
+
+.prgmBtn{
+    border-style: solid;
+    border-color: orange;
+    background-color: black;
+}
+
+.prgmBtn:hover{
+    border-style: solid;
+    border-color: rgb(255, 209, 124);
+    background-color: black;
+}
+```
