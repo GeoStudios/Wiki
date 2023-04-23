@@ -1,4 +1,4 @@
-# [<](readme.md) opt1.css
+# [<](../readme.md) opt1.css
 ```css
 /* Import the main css file as the base */
 @import url("../../../public/style.css");
