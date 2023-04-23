@@ -1,6 +1,11 @@
 
 # [<](../../readme.md) Centurion JDK
 
-### Version : 1.9
-### JavaVersion : 20
-### Creator : @M4ximumPizza
+##### Version : 1.9
+##### Creator : @M4ximumPizza
+
+$AboutProject
+
+#### Links
+
+[Link 1]()
