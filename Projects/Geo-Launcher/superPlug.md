@@ -10,6 +10,9 @@ LoadPlugJson("Plugin name") // Loads the pack.json from the plugin selected
 LoadNest("Plugin Name", "nested pack") /* Allows you to get a custom ".js" file
 from a folder called "sub" located in the Selected Pack of your choosing */
 LoadLib("Plugin Name") // Allows you to get the "lib.js" from the selected pack
+downloadFile("NewFileLocation", "OnlineFileToDownload") /* In
+"OnlineFileToDownload" insert an HTTP or HTTPS link to
+download to "NewFileLocation" adding the new dir & fileName */
 ```
 
 This Plugin Allows for more plugins to be enabled through the "packs.json" located in the "Config/Super" folder. This also adds a styles pack to add more styles and a lib to make stylepacks easier using this code snippet. Example Pack Src [Normal](ExamplePack/readme.md), [MarkDown](ExamplePackMarkDown/readme.md)

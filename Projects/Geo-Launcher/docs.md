@@ -22,4 +22,5 @@ LoadPlugJson("Plugin name") // Loads the pack.json from the plugin selected
 LoadNest("Plugin Name", "nested pack") /* Allows you to get a custom ".js" file
 from a folder called "sub" located in the Selected Pack of your choosing */
 LoadLib("Plugin Name") // Allows you to get the "lib.js" from the selected pack
+downloadFile("NewFileLocation", "OnlineFileToDownload") // In OnlineFileToDownload insert an HTTP or HTTPS link to download to "NewFileLocation" adding the new dir & fileName
 ```
